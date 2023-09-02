@@ -118,7 +118,7 @@ const Stories = () => {
           },
           {
             uri: "https://images.unsplash.com/photo-1675673428645-5fb5fa263898?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-            text: "Pravan",
+            text: "Usama",
           },
           {
             uri: "https://images.unsplash.com/photo-1675432980667-95da207814a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
@@ -126,15 +126,15 @@ const Stories = () => {
           },
           {
             uri: "https://images.unsplash.com/photo-1661956602139-ec64991b8b16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=665&q=80",
-            text: "Roshni",
+            text: "Ronaldo",
           },
           {
             uri: "https://images.unsplash.com/photo-1675659999529-630a3febadfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            text: "Samantha",
+            text: "Joe",
           },
           {
             uri: "https://images.unsplash.com/photo-1675332911379-9bf948fd339a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-            text: "Esther",
+            text: "Pogba",
           },
           {
             uri: "https://images.unsplash.com/photo-1675685828034-be58f6f986c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",

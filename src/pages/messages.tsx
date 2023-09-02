@@ -47,7 +47,7 @@ const Messages = ({ navigation }: ScreenDefaultProps) => {
               color={Colors?.white}
               fontFamily={Fonts?.InterBold}
             >
-              Jayesh
+              Usman
             </CustomText>
           </CustomText>
         </TextWrap>

@@ -58,6 +58,7 @@ const InputWrap = styled.View`
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  margin-bottom:16
 `;
 
 const InputText = styled.TextInput`

@@ -78,7 +78,7 @@ const ChatDetail = ({ navigation }: ScreenDefaultProps) => {
                   color={Colors?.white}
                   fontFamily={Fonts?.InterMedium}
                 >
-                  Pranav Ray
+                  Joe
                 </CustomText>
                 <CustomText
                   fontSize={14}

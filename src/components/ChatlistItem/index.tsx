@@ -51,7 +51,7 @@ const ChatlistItem = ({ navigation }: ChatItemProps) => {
             fontWeight="700"
             fontFamily={Fonts.InterMedium}
           >
-            Pranav Ray
+            Joe
           </CustomText>
           <CustomText
             fontSize={14}
