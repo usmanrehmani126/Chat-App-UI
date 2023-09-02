@@ -14,6 +14,13 @@ React Native is a popular JavaScript framework that allows you to build native m
 
 By using React Native, you will gain experience in building hybrid mobile apps, which provide the advantage of code reusability across multiple platforms. This project will help you understand the fundamentals of hybrid app development and how to leverage the strengths of React Native to deliver a consistent user experience on both iOS and Android.
 
+
+# UI/UX Designs
+
+```
+Creating an appealing and user-friendly interface is crucial for a Chat app. You will have the opportunity to enhance your UI/UX design skills and implement intuitive navigation, stunning visuals, and smooth animations to provide an engaging user experience.
+
+
 # Clone a whole Project
 To clone a React Native project from GitHub, follow these simple steps:
 
@@ -46,3 +53,11 @@ Explore the Project: The cloned React Native project is now running on your loca
 
 
 npm start &  npx react-native start
+
+
+# To create an expo app
+
+```
+expo init yourappname
+```
+
