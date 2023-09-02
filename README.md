@@ -17,11 +17,14 @@ By using React Native, you will gain experience in building hybrid mobile apps, 
 
 # UI/UX Designs
 
-```
+
 Creating an appealing and user-friendly interface is crucial for a Chat app. You will have the opportunity to enhance your UI/UX design skills and implement intuitive navigation, stunning visuals, and smooth animations to provide an engaging user experience.
+```
 
 
-# Clone a whole Project
+
+# Clone a Project
+```
 To clone a React Native project from GitHub, follow these simple steps:
 
 1): Install Git: Make sure you have Git installed on your system. You can download and install it from the official Git website.
